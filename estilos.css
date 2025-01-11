@@ -1,0 +1,14 @@
+/* Regla 1 */
+* {
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+/* Regla 2 */
+body {
+    margin: 0%;
+    padding-left: 20%;
+    padding-right: 20%;
+}   
